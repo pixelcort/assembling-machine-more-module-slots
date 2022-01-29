@@ -1,0 +1,11 @@
+{
+    "name": "pixelcort-assembling-machine-more-module_slots",
+    "version": "1.0.0",
+    "factorio_version": "1.1",
+    "title": "pixelcort's Assembling Machine More Module Slots",
+    "author": "pixelcort",
+    "contact": "https://github.com/pixelcort",
+    "homepage": "https://github.com/pixelcort",
+    "description": "pixelcort's Assembling Machine More Module Slots\n\rEnables higher tier assembling machines to have more module slots. Currently only works with 5Dim's automation mod.",
+    "dependencies": ["5dim_automation >= 1.1.1"]
+}
